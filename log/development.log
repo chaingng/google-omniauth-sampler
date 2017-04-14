@@ -1,0 +1,443 @@
+Started GET "/" for ::1 at 2017-04-14 22:03:20 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb (4.0ms)
+Completed 200 OK in 24ms (Views: 10.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-14 22:17:59 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb (12.0ms)
+Completed 200 OK in 32ms (Views: 22.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-14 22:18:22 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb (4.8ms)
+Completed 200 OK in 22ms (Views: 11.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-14 22:18:24 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb (2.8ms)
+Completed 200 OK in 9ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-14 22:19:00 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb (3.6ms)
+Completed 200 OK in 22ms (Views: 11.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-14 22:20:14 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb (4.6ms)
+Completed 200 OK in 23ms (Views: 11.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-14 22:23:12 +0900
+Processing by SessionsController#top as HTML
+  Rendering sessions/top.html.erb within layouts/application
+  Rendered sessions/top.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 1192ms (Views: 1183.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-14 22:24:14 +0900
+Processing by SessionsController#top as HTML
+  Rendering sessions/top.html.erb within layouts/application
+  Rendered sessions/top.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 26ms (Views: 25.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-14 22:24:44 +0900
+Processing by SessionsController#top as HTML
+  Rendering sessions/top.html.erb within layouts/application
+  Rendered sessions/top.html.erb within layouts/application (4.8ms)
+Completed 200 OK in 266ms (Views: 257.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/google_oauth2" for ::1 at 2017-04-14 22:24:47 +0900
+Started GET "/auth/google_oauth2" for ::1 at 2017-04-14 22:24:47 +0900
+Started GET "/" for ::1 at 2017-04-14 22:26:21 +0900
+Processing by SessionsController#top as HTML
+  Rendering sessions/top.html.erb within layouts/application
+  Rendered sessions/top.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 20ms (Views: 19.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/google_oauth2" for ::1 at 2017-04-14 22:26:24 +0900
+Started GET "/auth/google_oauth2" for ::1 at 2017-04-14 22:26:24 +0900
+Started GET "/" for ::1 at 2017-04-14 22:28:59 +0900
+Processing by SessionsController#top as HTML
+  Rendering sessions/top.html.erb within layouts/application
+  Rendered sessions/top.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 19ms (Views: 17.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/google_oauth2" for ::1 at 2017-04-14 22:29:05 +0900
+Started GET "/auth/google_oauth2" for ::1 at 2017-04-14 22:29:05 +0900
+Started GET "/" for ::1 at 2017-04-14 22:31:07 +0900
+Processing by SessionsController#top as HTML
+  Rendering sessions/top.html.erb within layouts/application
+  Rendered sessions/top.html.erb within layouts/application (5.8ms)
+Completed 200 OK in 248ms (Views: 239.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/google_oauth2" for ::1 at 2017-04-14 22:31:10 +0900
+Started GET "/auth/google_oauth2" for ::1 at 2017-04-14 22:31:10 +0900
+Started GET "/auth/google_oauth2/callback?state=e187aa9ffd19971617f20423d5023e8fcdc737b38be84f8e&code=4/gu3bo2Wl--LyAPbzCwwWoOV1LEGEvmDal723yJxqwSI" for ::1 at 2017-04-14 22:31:14 +0900
+  
+OAuth2::Error ({"errors"=>[{"domain"=>"usageLimits", "reason"=>"accessNotConfigured", "message"=>"Access Not Configured. Google+ API has not been used in project 159112553796 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/plus/overview?project=159112553796 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.", "extendedHelp"=>"https://console.developers.google.com/apis/api/plus/overview?project=159112553796"}], "code"=>403, "message"=>"Access Not Configured. Google+ API has not been used in project 159112553796 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/plus/overview?project=159112553796 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."}: 
+{
+ "error": {
+  "errors": [
+   {
+    "domain": "usageLimits",
+    "reason": "accessNotConfigured",
+    "message": "Access Not Configured. Google+ API has not been used in project 159112553796 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/plus/overview?project=159112553796 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "extendedHelp": "https://console.developers.google.com/apis/api/plus/overview?project=159112553796"
+   }
+  ],
+  "code": 403,
+  "message": "Access Not Configured. Google+ API has not been used in project 159112553796 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/plus/overview?project=159112553796 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+ }
+}
+):
+  
+oauth2 (1.3.1) lib/oauth2/client.rb:119:in `request'
+oauth2 (1.3.1) lib/oauth2/access_token.rb:107:in `request'
+oauth2 (1.3.1) lib/oauth2/access_token.rb:114:in `get'
+omniauth-google-oauth2 (0.4.1) lib/omniauth/strategies/google_oauth2.rb:83:in `raw_info'
+omniauth-google-oauth2 (0.4.1) lib/omniauth/strategies/google_oauth2.rb:43:in `block in <class:GoogleOauth2>'
+omniauth (1.6.1) lib/omniauth/strategy.rb:108:in `instance_eval'
+omniauth (1.6.1) lib/omniauth/strategy.rb:108:in `block in compile_stack'
+omniauth (1.6.1) lib/omniauth/strategy.rb:107:in `each'
+omniauth (1.6.1) lib/omniauth/strategy.rb:107:in `inject'
+omniauth (1.6.1) lib/omniauth/strategy.rb:107:in `compile_stack'
+omniauth (1.6.1) lib/omniauth/strategy.rb:101:in `uid_stack'
+omniauth (1.6.1) lib/omniauth/strategy.rb:321:in `uid'
+omniauth (1.6.1) lib/omniauth/strategy.rb:337:in `auth_hash'
+omniauth (1.6.1) lib/omniauth/strategy.rb:360:in `callback_phase'
+omniauth-oauth2 (1.4.0) lib/omniauth/strategies/oauth2.rb:75:in `callback_phase'
+omniauth (1.6.1) lib/omniauth/strategy.rb:230:in `callback_call'
+omniauth (1.6.1) lib/omniauth/strategy.rb:187:in `call!'
+omniauth (1.6.1) lib/omniauth/strategy.rb:167:in `call'
+omniauth (1.6.1) lib/omniauth/builder.rb:63:in `call'
+rack (2.0.1) lib/rack/etag.rb:25:in `call'
+rack (2.0.1) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.1) lib/rack/head.rb:12:in `call'
+rack (2.0.1) lib/rack/session/abstract/id.rb:222:in `context'
+rack (2.0.1) lib/rack/session/abstract/id.rb:216:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.0.2) lib/active_record/migration.rb:553:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/callbacks.rb:38:in `block in call'
+activesupport (5.0.2) lib/active_support/callbacks.rb:97:in `__run_callbacks__'
+activesupport (5.0.2) lib/active_support/callbacks.rb:750:in `_run_call_callbacks'
+activesupport (5.0.2) lib/active_support/callbacks.rb:90:in `run_callbacks'
+actionpack (5.0.2) lib/action_dispatch/middleware/callbacks.rb:36:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:49:in `call'
+web-console (3.5.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `call'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (3.5ms)
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.9ms)
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (95.7ms)
+Started GET "/" for ::1 at 2017-04-14 22:33:11 +0900
+Processing by SessionsController#top as HTML
+  Rendering sessions/top.html.erb within layouts/application
+  Rendered sessions/top.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 22ms (Views: 21.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/google_oauth2" for ::1 at 2017-04-14 22:33:13 +0900
+Started GET "/auth/google_oauth2" for ::1 at 2017-04-14 22:33:13 +0900
+Started GET "/auth/google_oauth2/callback?state=999002b748eadb9b52d442fe24c59c38ef981cae7846feb0&code=4/yGOBPR8SwccZCRhmi6KGd21zBzgQw1Quobaote1fwO8" for ::1 at 2017-04-14 22:33:21 +0900
+  
+OAuth2::Error ({"errors"=>[{"domain"=>"usageLimits", "reason"=>"accessNotConfigured", "message"=>"Access Not Configured. Google+ API has not been used in project 159112553796 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/plus/overview?project=159112553796 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.", "extendedHelp"=>"https://console.developers.google.com/apis/api/plus/overview?project=159112553796"}], "code"=>403, "message"=>"Access Not Configured. Google+ API has not been used in project 159112553796 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/plus/overview?project=159112553796 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."}: 
+{
+ "error": {
+  "errors": [
+   {
+    "domain": "usageLimits",
+    "reason": "accessNotConfigured",
+    "message": "Access Not Configured. Google+ API has not been used in project 159112553796 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/plus/overview?project=159112553796 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "extendedHelp": "https://console.developers.google.com/apis/api/plus/overview?project=159112553796"
+   }
+  ],
+  "code": 403,
+  "message": "Access Not Configured. Google+ API has not been used in project 159112553796 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/plus/overview?project=159112553796 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+ }
+}
+):
+  
+oauth2 (1.3.1) lib/oauth2/client.rb:119:in `request'
+oauth2 (1.3.1) lib/oauth2/access_token.rb:107:in `request'
+oauth2 (1.3.1) lib/oauth2/access_token.rb:114:in `get'
+omniauth-google-oauth2 (0.4.1) lib/omniauth/strategies/google_oauth2.rb:83:in `raw_info'
+omniauth-google-oauth2 (0.4.1) lib/omniauth/strategies/google_oauth2.rb:43:in `block in <class:GoogleOauth2>'
+omniauth (1.6.1) lib/omniauth/strategy.rb:108:in `instance_eval'
+omniauth (1.6.1) lib/omniauth/strategy.rb:108:in `block in compile_stack'
+omniauth (1.6.1) lib/omniauth/strategy.rb:107:in `each'
+omniauth (1.6.1) lib/omniauth/strategy.rb:107:in `inject'
+omniauth (1.6.1) lib/omniauth/strategy.rb:107:in `compile_stack'
+omniauth (1.6.1) lib/omniauth/strategy.rb:101:in `uid_stack'
+omniauth (1.6.1) lib/omniauth/strategy.rb:321:in `uid'
+omniauth (1.6.1) lib/omniauth/strategy.rb:337:in `auth_hash'
+omniauth (1.6.1) lib/omniauth/strategy.rb:360:in `callback_phase'
+omniauth-oauth2 (1.4.0) lib/omniauth/strategies/oauth2.rb:75:in `callback_phase'
+omniauth (1.6.1) lib/omniauth/strategy.rb:230:in `callback_call'
+omniauth (1.6.1) lib/omniauth/strategy.rb:187:in `call!'
+omniauth (1.6.1) lib/omniauth/strategy.rb:167:in `call'
+omniauth (1.6.1) lib/omniauth/builder.rb:63:in `call'
+rack (2.0.1) lib/rack/etag.rb:25:in `call'
+rack (2.0.1) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.1) lib/rack/head.rb:12:in `call'
+rack (2.0.1) lib/rack/session/abstract/id.rb:222:in `context'
+rack (2.0.1) lib/rack/session/abstract/id.rb:216:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.0.2) lib/active_record/migration.rb:553:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/callbacks.rb:38:in `block in call'
+activesupport (5.0.2) lib/active_support/callbacks.rb:97:in `__run_callbacks__'
+activesupport (5.0.2) lib/active_support/callbacks.rb:750:in `_run_call_callbacks'
+activesupport (5.0.2) lib/active_support/callbacks.rb:90:in `run_callbacks'
+actionpack (5.0.2) lib/action_dispatch/middleware/callbacks.rb:36:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:49:in `call'
+web-console (3.5.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.5.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.5.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `call'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.8ms)
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.4ms)
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (81.8ms)
+Started GET "/" for ::1 at 2017-04-14 22:37:09 +0900
+Processing by SessionsController#top as HTML
+  Rendering sessions/top.html.erb within layouts/application
+  Rendered sessions/top.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 23ms (Views: 22.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/google_oauth2" for ::1 at 2017-04-14 22:37:18 +0900
+Started GET "/auth/google_oauth2" for ::1 at 2017-04-14 22:37:18 +0900
+Started GET "/auth/google_oauth2/callback?state=970e99f86b50491954466d0a439cc10328a9c50f737f383d&code=4/Qu5haL9lW3uRvM9i4UAYeipgSpprk8qvPExaFuYLUgw" for ::1 at 2017-04-14 22:37:21 +0900
+Processing by SessionsController#create as HTML
+  Parameters: {"state"=>"970e99f86b50491954466d0a439cc10328a9c50f737f383d", "code"=>"4/Qu5haL9lW3uRvM9i4UAYeipgSpprk8qvPExaFuYLUgw", "provider"=>"google_oauth2"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (uninitialized constant SessionsController::Google):
+  
+app/controllers/sessions_controller.rb:7:in `create'
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (4.5ms)
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.3ms)
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (79.8ms)
+Started GET "/" for ::1 at 2017-04-14 22:38:01 +0900
+Processing by SessionsController#top as HTML
+  Rendering sessions/top.html.erb within layouts/application
+  Rendered sessions/top.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 271ms (Views: 262.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/google_oauth2" for ::1 at 2017-04-14 22:38:05 +0900
+Started GET "/auth/google_oauth2" for ::1 at 2017-04-14 22:38:05 +0900
+Started GET "/auth/google_oauth2/callback?state=98be96581c5d860968d3dc2d0a9fea08ab2b7ae532ec9cf4&code=4/q6EXpwqb8SXgqOy8e_2xk1WY1FkMekCSirvkvk9_5FM" for ::1 at 2017-04-14 22:38:07 +0900
+Processing by SessionsController#create as HTML
+  Parameters: {"state"=>"98be96581c5d860968d3dc2d0a9fea08ab2b7ae532ec9cf4", "code"=>"4/q6EXpwqb8SXgqOy8e_2xk1WY1FkMekCSirvkvk9_5FM", "provider"=>"google_oauth2"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (uninitialized constant SessionsController::Google):
+  
+app/controllers/sessions_controller.rb:7:in `create'
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (4.7ms)
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (3.2ms)
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (80.3ms)
+Started GET "/" for ::1 at 2017-04-14 22:38:37 +0900
+Processing by SessionsController#top as HTML
+  Rendering sessions/top.html.erb within layouts/application
+  Rendered sessions/top.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 17ms (Views: 16.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/google_oauth2" for ::1 at 2017-04-14 22:38:49 +0900
+Started GET "/auth/google_oauth2" for ::1 at 2017-04-14 22:38:49 +0900
+Started GET "/auth/google_oauth2/callback?state=82508a299dee5f6bfcd0190fa297cbf1d8c7bc7b8a714d12&code=4/yhQ7M1_TxkLujAu8eGfVmlWY1FkMekCSirvkvk9_5FM" for ::1 at 2017-04-14 22:38:51 +0900
+Processing by SessionsController#create as HTML
+  Parameters: {"state"=>"82508a299dee5f6bfcd0190fa297cbf1d8c7bc7b8a714d12", "code"=>"4/yhQ7M1_TxkLujAu8eGfVmlWY1FkMekCSirvkvk9_5FM", "provider"=>"google_oauth2"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (uninitialized constant SessionsController::Google):
+  
+app/controllers/sessions_controller.rb:7:in `create'
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (4.6ms)
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (73.9ms)
+Started GET "/" for ::1 at 2017-04-14 22:39:11 +0900
+Processing by SessionsController#top as HTML
+  Rendering sessions/top.html.erb within layouts/application
+  Rendered sessions/top.html.erb within layouts/application (5.8ms)
+Completed 200 OK in 291ms (Views: 281.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/google_oauth2" for ::1 at 2017-04-14 22:39:13 +0900
+Started GET "/auth/google_oauth2" for ::1 at 2017-04-14 22:39:13 +0900
+Started GET "/auth/google_oauth2/callback?state=ff91d9ee57145b1101f50353241fa3c0783302dd2cb3a43b&code=4/llMF3Nu0T1YtnwCY1TLLUd-mqjXoZwj3Swi6Q2U9wkw" for ::1 at 2017-04-14 22:39:14 +0900
+Processing by SessionsController#create as HTML
+  Parameters: {"state"=>"ff91d9ee57145b1101f50353241fa3c0783302dd2cb3a43b", "code"=>"4/llMF3Nu0T1YtnwCY1TLLUd-mqjXoZwj3Swi6Q2U9wkw", "provider"=>"google_oauth2"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (uninitialized constant SessionsController::Google):
+  
+app/controllers/sessions_controller.rb:7:in `create'
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (3.4ms)
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (72.8ms)
+Started GET "/" for ::1 at 2017-04-14 22:41:54 +0900
+Processing by SessionsController#top as HTML
+  Rendering sessions/top.html.erb within layouts/application
+  Rendered sessions/top.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 17ms (Views: 16.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/google_oauth2" for ::1 at 2017-04-14 22:42:06 +0900
+Started GET "/auth/google_oauth2" for ::1 at 2017-04-14 22:42:06 +0900
+Started GET "/auth/google_oauth2/callback?state=f1cbab6de89679c1b7b9230755257fed2bc5cb383b8be79a&code=4/jfTKvnn2oGj4EN6IrF0_FzPeQwoFGk1YfVU2BNUroK4" for ::1 at 2017-04-14 22:42:08 +0900
+Processing by SessionsController#create as HTML
+  Parameters: {"state"=>"f1cbab6de89679c1b7b9230755257fed2bc5cb383b8be79a", "code"=>"4/jfTKvnn2oGj4EN6IrF0_FzPeQwoFGk1YfVU2BNUroK4", "provider"=>"google_oauth2"}
+Completed 500 Internal Server Error in 123848ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (uninitialized constant SessionsController::Google):
+  
+app/controllers/sessions_controller.rb:8:in `create'
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (16.5ms)
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (86.9ms)
+Started GET "/" for ::1 at 2017-04-14 22:47:09 +0900
+Processing by SessionsController#top as HTML
+  Rendering sessions/top.html.erb within layouts/application
+  Rendered sessions/top.html.erb within layouts/application (4.8ms)
+Completed 200 OK in 251ms (Views: 242.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/auth/google_oauth2" for ::1 at 2017-04-14 22:47:12 +0900
+Started GET "/auth/google_oauth2" for ::1 at 2017-04-14 22:47:12 +0900
+Started GET "/auth/google_oauth2/callback?state=8475f919a22db883fb8a32df24d6e93656f0ea8c73183ef9&code=4/aoqSW7aqizruOmjFFFJWvhuLv06pDOMluDpkEJa1kwM" for ::1 at 2017-04-14 22:47:15 +0900
+Processing by SessionsController#create as HTML
+  Parameters: {"state"=>"8475f919a22db883fb8a32df24d6e93656f0ea8c73183ef9", "code"=>"4/aoqSW7aqizruOmjFFFJWvhuLv06pDOMluDpkEJa1kwM", "provider"=>"google_oauth2"}
+Completed 500 Internal Server Error in 202336ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (uninitialized constant SessionsController::Google):
+  
+app/controllers/sessions_controller.rb:8:in `create'
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (14.4ms)
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.7ms)
+  Rendering /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/honda-takatomo/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (92.5ms)
